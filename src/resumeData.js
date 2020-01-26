@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am passionate about stepping into an industry where I will be able to contribute by building useful software products for the world. I took an interest in web development in 2007 while attending college. In 2009, I received an Associate Degree in Computer Information Systems and a Technical Certificate in Computer Networking where I gained exposure to programming in Visual Basic, SQL, and Java. I had to leave college 5 classes short of my B.S degree.  But in April 2019 I continued my journey as a Computer Science student online at Lambda School with a focus in Full Stack Web Development. In my courses, I have gained hands-on, real world experience as a Software Developer that includes learning in a remote collaborative environment, completing sprint projects each week, practicing modern technology standard and completing a collaborative 8 week project through multiple development cycles. My goal is to work in a Full Time role as a Software Engineer and bring together my love for technology and my curiosity of the world as a whole. I love to learn and I'm always working to refine my knowledge as a professional but also personally.",
+    "aboutme":"I am passionate about stepping into an industry where I will be able to contribute by building useful software products for the world. I took an interest in web development in 2007 while attending college. In 2009, I received an Associate Degree in Computer Information Systems and a Technical Certificate in Computer Networking where I gained exposure to programming in Visual Basic, SQL, JavaScript, PHP, and Java. I had to leave college 5 classes short of my B.S degree.  But in April 2019 I continued my journey as a Computer Science student online at Lambda School with a focus in Full Stack Web Development. In my courses, I have gained hands-on, real world experience as a Software Developer that includes learning in a remote collaborative environment, completing sprint projects each week, practicing modern technology standard and completing a collaborative 8 week project through multiple development cycles. My goal is to work in a Full Time role as a Software Engineer and bring together my love for technology and my curiosity of the world as a whole. I love to learn and I'm always working to refine my knowledge as a professional but also personally.",
     "address":"Arkansas",
     "website":"https://stacywilliams.netlify.com/",
     "education":[
@@ -33,6 +33,13 @@ let resumeData = {
         "Achievements":""
       },
       {
+        "UniversityName":"Liberty University",
+        "specialization":"Computer Information Systems./Religious Studies",
+        "MonthOfPassing":"",
+        "YearOfPassing":"",
+        "Achievements":"15 hours shy of a B.S."
+      },
+      {
         "UniversityName":"Seark College",
         "specialization":"Information Systems",
         "MonthOfPassing":"",
@@ -41,6 +48,13 @@ let resumeData = {
       }
     ],
     "work":[
+      {
+        "CompanyName":"Lambda School Academy of Computer Science",
+        "specialization":"Labs Team Lead",
+        "MonthOfLeaving":"current",
+        "YearOfLeaving":"",
+        "Achievements":""
+      },
       {
         "CompanyName":"United States Marine Corps",
         "specialization":"Unit Diary Clerk",
@@ -90,6 +104,11 @@ let resumeData = {
         "name":"Backend",
         "description":"Node/Express",
         "imgurl":"images/backend.png"
+      },
+      {
+        "name":"RV NAV",
+        "description":"React/Redux and Node/Express",
+        "imgurl":"images/RVNav.png"
       }
     ],
     "testimonials":[
